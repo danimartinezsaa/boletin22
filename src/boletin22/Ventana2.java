@@ -15,6 +15,7 @@ public class Ventana2 extends javax.swing.JFrame{
      * Creates new form Ventana2
      */
     public Ventana2(){
+        setVisible(true);
         initComponents();
     }
 
